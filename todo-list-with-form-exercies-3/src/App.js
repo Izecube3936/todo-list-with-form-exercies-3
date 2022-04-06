@@ -2,14 +2,14 @@ import logo from './logo.svg';
 import './App.css';
 import TodoApp from './components/TodoApp';
 import Forms from './components/Forms';
-import Sibarsmall from './components/Sibarsmall';
+import SibarsMall from './components/SibarsMall';
 
 function App() {
   return (
     <div className="App">
       <TodoApp />
       <Forms />
-      <Sibarsmall />
+      <SibarsMall />
     </div>
   );
 }
